@@ -28,6 +28,8 @@ public class DrawInstanced : MonoBehaviour
 
 	void Update() {
 		// Rendering our meshes
+		// Notice the update loop : We need to render the mesh every frame, because it's not a 
+		// physícal object in the scene!
 		for (int i = 0; i < _matrices.Count; i += INSTANCE_LIMIT) {
 			int count = Mathf.Min(INSTANCE_LIMIT, _matrices.Count - i);
 			Graphics.DrawMeshInstanced(MeshToRender, 0, MaterialToApply, _matrices.GetRange(i, count));
