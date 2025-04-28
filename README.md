@@ -14,4 +14,5 @@ You can open each folder, and open the Unity scene, there's a README file in eac
 
 ## Credits
 
-The tree model and textures were dowloaded from ambientCG and Polyhaven, they are licensed under the CC0 license
+The tree model and textures were dowloaded from ambientCG and Polyhaven, they are licensed under the CC0 license.
+The included shaders were all written by me, feel free to use them for your projects.
