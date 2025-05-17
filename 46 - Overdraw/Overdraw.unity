@@ -297,6 +297,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: FPS counter
       objectReference: {fileID: 0}
+    - target: {fileID: 6919710672811158193, guid: 9d754a14a56adc4479a2aa4f2c061272, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8431258260374677673, guid: 9d754a14a56adc4479a2aa4f2c061272, type: 3}
       propertyPath: Prefix
       value: 
@@ -698,7 +702,7 @@ Transform:
   m_GameObject: {fileID: 1989332696}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1.28, z: -1.54}
+  m_LocalPosition: {x: -38.05, y: 1.28, z: -1.54}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

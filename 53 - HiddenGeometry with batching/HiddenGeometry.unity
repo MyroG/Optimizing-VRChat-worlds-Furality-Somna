@@ -280,7 +280,7 @@ MonoBehaviour:
   - 'Separated mesh : GPU Inst'
   fps: {fileID: 910454373}
   CameraInstance: {fileID: 0}
-  Count: 1
+  Count: 0
   DistanceBetweenInstances: 1
   BenchmarkTime: 10
   FileName: HiddenGeometry.txt

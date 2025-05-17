@@ -126,7 +126,7 @@ Shader "MyroP/Somna/FunnyColors"
 }
 /*ASEBEGIN
 Version=19801
-Node;AmplifyShaderEditor.Vector3Node;15;-1376,0;Inherit;False;Property;_Seed;_Seed;0;0;Create;True;0;0;0;False;0;False;0,0,0;0.8720139,0.5812054,0.874306;0;4;FLOAT3;0;FLOAT;1;FLOAT;2;FLOAT;3
+Node;AmplifyShaderEditor.Vector3Node;15;-1376,0;Inherit;False;Property;_Seed;_Seed;0;0;Create;True;0;0;0;False;0;False;0,0,0;0,0,0;0;4;FLOAT3;0;FLOAT;1;FLOAT;2;FLOAT;3
 Node;AmplifyShaderEditor.DynamicAppendNode;3;-1072,64;Inherit;False;FLOAT2;4;0;FLOAT;0;False;1;FLOAT;0;False;2;FLOAT;0;False;3;FLOAT;0;False;1;FLOAT2;0
 Node;AmplifyShaderEditor.FresnelNode;6;-832,240;Inherit;True;Standard;WorldNormal;ViewDir;False;False;5;0;FLOAT3;0,0,1;False;4;FLOAT3;0,0,0;False;1;FLOAT;0;False;2;FLOAT;28.1;False;3;FLOAT;5;False;1;FLOAT;0
 Node;AmplifyShaderEditor.FunctionNode;8;-656,-128;Inherit;False;Random Range;-1;;3;7b754edb8aebbfb4a9ace907af661cfc;0;3;1;FLOAT2;0,0;False;2;FLOAT;0;False;3;FLOAT;5;False;1;FLOAT;0
@@ -148,4 +148,4 @@ WireConnection;7;1;9;6
 WireConnection;7;2;12;0
 WireConnection;0;2;7;0
 ASEEND*/
-//CHKSM=9E9DBDBC7C12FDE283C7BA689F6D86D68EFDD4EB
+//CHKSM=E9F3DD01803167B8FEB9B449280F0D9FD864B5A3

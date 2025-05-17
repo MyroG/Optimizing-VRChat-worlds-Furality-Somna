@@ -26,6 +26,7 @@ public class fps : MonoBehaviour
 
 	void Start()
     {
+		Application.targetFrameRate = 9999;
 		_startTime = 0;
 		Thread.CurrentThread.CurrentCulture = CultureInfo.GetCultureInfo("en-US");
 	}
