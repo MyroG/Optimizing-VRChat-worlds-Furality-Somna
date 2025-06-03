@@ -1,2 +1,2 @@
-Here you can benchmark the performance between front-to-back and back-to-front sorting.
+Here you can compare the performance between front-to-back and back-to-front sorting.
 To change the sorting behaviour, I just increased the render queue of the "back-to-front" material : materials with a higher render queue (>3000) get rendered back to front.
