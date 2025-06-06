@@ -1,4 +1,4 @@
-# Basics of optimizing VRChat worlds
+# Basics of optimizing VRChat worlds - Furality Somna panel
 
 Here, you can download the full presentation, shaders, and all my benchmarks, so you can try them out for yourself!
 
