@@ -15,6 +15,6 @@ You can open each folder, and open the Unity scene, there's a README file in eac
 
 ## Credits & License
 
-The textures were dowloaded from ambientCG and Polyhaven, they are licensed under the CC0 license.
-The included shaders and scripts were all written by me, they are licensed under the MIT license https://opensource.org/license/mit so feel free to use them in your project
-Everything else, including the presentration, are licensed under CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
+- The textures were dowloaded from ambientCG and Polyhaven, they are licensed under the CC0 license.
+- The included shaders and scripts were all written by me, they are licensed under the MIT license https://opensource.org/license/mit so feel free to use them in your project
+- Everything else, including the presentration, are licensed under CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
